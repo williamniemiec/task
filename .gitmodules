@@ -1,3 +1,12 @@
 [submodule "cpp/scheduler"]
 	path = cpp/scheduler
 	url = https://github.com/wniemiec-task-cpp/scheduler
+[submodule "java/scheduler"]
+	path = java/scheduler
+	url = https://github.com/wniemiec-task-java/scheduler
+[submodule "java/checkpoint"]
+	path = java/checkpoint
+	url = https://github.com/wniemiec-task-java/checkpoint
+[submodule "java/process-manager"]
+	path = java/process-manager
+	url = https://github.com/wniemiec-task-java/process-manager
