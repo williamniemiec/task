@@ -1,0 +1,3 @@
+[submodule "cpp/scheduler"]
+	path = cpp/scheduler
+	url = https://github.com/wniemiec-task-cpp/scheduler
